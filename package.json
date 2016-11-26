@@ -1,0 +1,21 @@
+{
+  "name": "reviewbot-tslint",
+  "version": "0.1.0",
+  "description": "The tslint plugin for reviewbot",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/jaybekster/reviewbot-tslint.git"
+  },
+  "author": "Mikhail Tsyplakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/jaybekster/reviewbot-tslint/issues"
+  },
+  "homepage": "https://gitlab.com/jaybekster/reviewbot-tslint#readme",
+  "dependencies": {
+    "tslint": "^4.0.2",
+    "typescript": "^2.0.10"
+  }
+}
